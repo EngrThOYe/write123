@@ -4,13 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eca59459-f449-439e-94b9-4e8fc4a5f959" name="Changes" comment="i am typing anything" />
+    <list default="true" id="eca59459-f449-439e-94b9-4e8fc4a5f959" name="Changes" comment="adding hello world 2">
+      <change beforePath="$PROJECT_DIR$/src/main/scala/org/engrthoye/App.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/org/engrthoye/App.scala" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
@@ -26,7 +33,7 @@
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "userA__ver001",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
@@ -47,11 +54,20 @@
       <option name="project" value="LOCAL" />
       <updated>1709508900768</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding hello world 2">
+      <option name="closed" value="true" />
+      <created>1709509053860</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709509053860</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="i am typing anything" />
-    <option name="LAST_COMMIT_MESSAGE" value="i am typing anything" />
+    <MESSAGE value="adding hello world 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding hello world 2" />
   </component>
 </project>
